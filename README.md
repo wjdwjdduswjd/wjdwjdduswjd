@@ -22,8 +22,11 @@ Hello, I'm Yeonjeong who dreams of becoming a developer.
 
 
 Languages and Tools:
-https://img.shields.io/badge/<LABEL>-<JAVA>-<orange>
 
+
+[!JAVA](http://img.shields.io/badge/language-swift-orange&logo=java&logoColor=black&link=#007396)
+
+ 
 
 
 
