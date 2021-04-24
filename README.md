@@ -24,12 +24,11 @@ Hello, I'm Yeonjeong who dreams of becoming a developer.
 Languages and Tools:
 
 
-[!JAVA](http://img.shields.io/badge/language-swift-orange&logo=java&logoColor=black&link=#007396)
-
 <img src="http://img.shields.io/badge/Java-blue?logo=java&logoColor=black&link=#007396"/>
-
-
-
+<img src="http://img.shields.io/badge/JavaScript-yellow?logo=JavaScript&logoColor=black&link=#007396"/>
+<img src="http://img.shields.io/badge/Java-blue?logo=java&logoColor=black&link=#007396"/>
+<img src="http://img.shields.io/badge/Java-blue?logo=java&logoColor=black&link=#007396"/>
+<img src="http://img.shields.io/badge/Java-blue?logo=java&logoColor=black&link=#007396"/>
  
 
 
