@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={(string)})](https://github.com/anuraghazra/github-readme-stats)
+[출처] 깃헙 메인 프로필 꾸미기 (뱃지 설정, 컴포넌트 추가)|작성자 무마니 vivi
