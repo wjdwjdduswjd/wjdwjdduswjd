@@ -26,6 +26,10 @@ Languages and Tools:
 
 [!JAVA](http://img.shields.io/badge/language-swift-orange&logo=java&logoColor=black&link=#007396)
 
+<img src="http://img.shields.io/badge/Java-blue?logo=java&logoColor=black&link=#007396"/>
+
+
+
  
 
 
