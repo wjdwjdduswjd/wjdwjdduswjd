@@ -19,6 +19,8 @@ Hello, I'm Yeonjeong who dreams of becoming a developer.
 
 
 Languages & Tools
+
+
 <span>
 <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white" />
